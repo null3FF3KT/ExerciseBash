@@ -1,0 +1,4 @@
+[client]
+user=<replace with db user>
+password=<replace with db password>
+database=<replace with db name>
